@@ -49,7 +49,7 @@ The Doctor-Patient Appointment App streamlines the process of booking and managi
 
 3. **Doctor Availability Screen**
 
-   <img src="assets/screenshots/dravailability.png" alt="Doctor Availability Screen" width="400"/>
+   <img src="assets/screenshots/availability.png" alt="Doctor Availability Screen" width="400"/>
 
    <p align="center">Doctor Availability Screen</p>
 4. **Doctor Chat List Screen**
