@@ -59,7 +59,7 @@ The Doctor-Patient Appointment App streamlines the process of booking and managi
    <p align="center">Doctor Chat List Screen</p>
 5. **Chat Screen**
 
-   <img src="assets/screenshots/chats.png" alt="Chat Screen" width="400"/>
+   <img src="assets/screenshots/chat.png" alt="Chat Screen" width="400"/>
    <p align="center">Chat Screen</p>
 
 
