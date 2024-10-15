@@ -33,8 +33,35 @@ The Doctor-Patient Appointment App streamlines the process of booking and managi
 - **Real-Time Database**: Firestore
 - **Storage**: Firebase Storage (for patient and doctor profile images)
 
-###  UI
-![Screen Shpt](assets/screenshots/drhome.png)
+## 📸 UI Screens
+
+1. **Doctor Home Screen**
+
+   <img src="assets/screenshots/drhome.png" alt="Doctor Home Screen" width="400"/>
+
+   <p align="center">Doctor Home Screen</p>
+
+2. **Doctor Profile Screen**
+
+   <img src="assets/screenshots/drprofile.png" alt="Doctor Profile Screen" width="400"/>
+
+   <p align="center">Doctor Profile Screen</p>
+
+3. **Doctor Availability Screen**
+
+   <img src="assets/screenshots/dravailability.png" alt="Doctor Availability Screen" width="400"/>
+
+   <p align="center">Doctor Availability Screen</p>
+4. **Doctor Chat List Screen**
+
+   <img src="assets/screenshots/chatlist.png" alt="Doctor Chatlist Screen" width="400"/>
+
+   <p align="center">Doctor Chat List Screen</p>
+5. **Chat Screen**
+
+   <img src="assets/screenshots/chatscreen.png" alt="Chat Screen" width="400"/>
+
+   <p align="center">Chat Screen</p>
 
 
  
